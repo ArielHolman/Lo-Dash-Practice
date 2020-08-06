@@ -8,6 +8,7 @@
     "func-names": "off",
     "object-shorthand": "warn",
     "class-methods-use-this": "warn",
-    "no-return-assign": "off"
+    "no-return-assign": "off",
+    "linebreak-style": "off"
   }
 }
